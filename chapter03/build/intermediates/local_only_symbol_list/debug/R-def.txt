@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color blue
+color green
+color white
+color yellow
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id hello_world
+id jump_to_activity_text_view
+id tv_background_blue
+id tv_background_yellow
+id tv_cyan
+id tv_dp
+id tv_green
+id tv_px
+id tv_red
+id tv_sp
+id world
+layout activity_main
+layout activity_text_color
+layout activity_text_size
+layout activity_text_view
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string background_blue
+string background_yellow
+string cyan
+string green
+string jump_to_activity_text_view
+string red
+string world_1
+style Base.Theme.Test
+style Theme.Test
