@@ -4,6 +4,3 @@
 =======
 其中包含 2 个模块：
 app chapter03
-=======
-# My-Graduation-Design：基于语音交互的界面自动化操作应用设计与实现
->>>>>>> dd304e0 (Initial commit)
