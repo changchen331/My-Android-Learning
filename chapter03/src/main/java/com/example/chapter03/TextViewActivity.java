@@ -12,6 +12,6 @@ public class TextViewActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_text_view);
         TextView world = findViewById(R.id.world);
-        world.setText("世界！");
+        world.setText("您好 世界！");
     }
 }
