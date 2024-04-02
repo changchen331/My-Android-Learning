@@ -4,19 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+    tools:context=".TextSizeActivity">
 
 </androidx.constraintlayout.widget.ConstraintLayout>-->
-
 
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
@@ -25,15 +15,24 @@
     android:orientation="vertical">
 
     <TextView
-        android:id="@+id/HelloWorld"
+        android:id="@+id/tv_px"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="@string/world_1"
+        android:textSize="31px" />
 
-    <Button
-        android:id="@+id/button"
+    <TextView
+        android:id="@+id/tv_dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/jumpToActivityMain2" />
+        android:text="@string/world_1"
+        android:textSize="31dp" />
+
+    <TextView
+        android:id="@+id/tv_sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/world_1"
+        android:textSize="31sp" />
 
 </LinearLayout>

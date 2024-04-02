@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "My Android Learning"
 include(":app")
+include(":chapter03")

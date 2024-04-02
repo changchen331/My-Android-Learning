@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">My Android Learning</string>
+    <string name="text2">Activity Main 2</string>
+    <string name="jumpToActivityMain1">跳转1</string>
+    <string name="jumpToActivityMain2">跳转2</string>
 </resources>

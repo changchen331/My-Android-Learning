@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chapter03</string>
+    <string name="world_1">World!</string>
+    <string name="jump_to_activity_text_view">跳转</string>
+    <string name="red">红色</string>
+    <string name="cyan">青色</string>
+    <string name="green">绿色</string>
+    <string name="background_blue">背景是蓝色</string>
+    <string name="background_yellow">背景是黄色</string>
+</resources>
